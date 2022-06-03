@@ -1,1 +1,0 @@
-echo "# RWD" >> README.md
